@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheGuessNumber</string>
+    <string name="guess_result">Adivinaste, tu número es %d</string>
+    <string name="play_again">Volver a jugar</string>
+    <string name="tap_to_generate">Toque para generar y comenzar</string>
+    <string name="lost_message">No puede ser; (me ganaste)</string>
+</resources>
